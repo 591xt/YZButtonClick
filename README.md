@@ -17,7 +17,9 @@
 
 #### 2.配置工程      
 
-TARGETS->Build Settings->Other Linker Flags 添加一个  -ObjC
+TARGETS->Build Settings->Other Linker Flags 添加一个  -force_load
+
+接着再添加一个 $(SRCROOT)/YZButtonClick/libYZButtonClick.a（具体路径看文件位置）
 
 #### 3.开始应用    
 
