@@ -7,13 +7,6 @@
 #### 1.下载该静态库并导入
  
  <https://github.com/YouZhiZheShiJingCheng/YZButtonClick>
- 
- 导入记得勾选拷贝，如图：
- 
- ![Alt text](http://118.24.89.63:8080/1.png)
- 
- ![Alt text](http://118.24.89.63:8080/3.png)
- 
 
 #### 2.配置工程      
 
